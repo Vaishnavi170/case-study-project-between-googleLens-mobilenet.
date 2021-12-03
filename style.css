@@ -1,0 +1,17 @@
+.heading{
+    font-family: 'Rye', cursive;
+    color: aliceblue;
+    text-align: center;
+}
+body{
+    background: linear-gradient(#ff0036,#ff8200);
+    font-family: 'Satisfy', cursive;
+}
+.head{
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
+img{
+    width: 250px;
+    height:250px;
+}
